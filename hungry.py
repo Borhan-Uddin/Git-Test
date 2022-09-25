@@ -5,7 +5,6 @@ if promt == 'yes':
     print('I want to eat pizza !!')
     print('eat samosa !')
     print('Eat burger')
-    print('eat fries')
 else:
     thristy = input('are you thristy?')
     if thristy == 'yes':
