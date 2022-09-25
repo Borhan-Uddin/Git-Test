@@ -7,4 +7,7 @@ if promt == 'yes':
     print('Eat burger')
     print('eat fries')
 else:
-    print('Do your task !')
+    thristy = input('are you thristy?')
+    if thristy == 'yes':
+        print('Drink water')
+        print('Drink coca-cola')
