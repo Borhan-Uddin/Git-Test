@@ -6,4 +6,6 @@ if promt == 'yes':
     print('eat samosa !')
     print('Eat burger')
 else:
-    print('Do your task !')
+    thristy = input('are you thristy?')
+    if thristy == 'yes':
+        print('Drink water')
