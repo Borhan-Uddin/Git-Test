@@ -10,3 +10,4 @@ else:
     if thristy == 'yes':
         print('Drink water')
         print('Drink coca-cola')
+        print('Drink juice')
