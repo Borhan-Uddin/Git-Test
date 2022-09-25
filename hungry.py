@@ -9,3 +9,4 @@ else:
     thristy = input('are you thristy?')
     if thristy == 'yes':
         print('Drink water')
+        print('Drink coca-cola')
